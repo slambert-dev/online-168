@@ -1,0 +1,354 @@
+{
+    "root": {
+        "data": {
+            "id": "cks3xls58so0",
+            "created": 1655438390456,
+            "text": "Le Git &\nGitHub",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cks3y5a16ns0",
+                    "created": 1655438432897,
+                    "text": "1 QQes citations",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cks483wmygg0",
+                            "created": 1655439213551,
+                            "text": "Philo",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cks3yy6qrq00",
+                                    "created": 1655438495824,
+                                    "text": "Esope",
+                                    "note": "620 av JC",
+                                    "hyperlink": "https://fr.wikipedia.org/wiki/%C3%89sope",
+                                    "hyperlinkTitle": "",
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cks57k7f7sw0",
+                                            "created": 1655441991778,
+                                            "text": "topic",
+                                            "hyperlink": "https://prnt.sc/sc9WHgOaVwrY",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cks43p6qt080",
+                                    "created": 1655438868054,
+                                    "text": "Saïdji",
+                                    "expandState": "expand",
+                                    "hyperlink": "https://prnt.sc/n5YSrzwG6VHO",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cks48929q9k0",
+                            "created": 1655439224776,
+                            "text": "VOUS",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cks4696ced40",
+                                    "created": 1655439068294,
+                                    "text": "D.J. Schwartz 1",
+                                    "hyperlink": "https://prnt.sc/xF1j4DXth5VQ",
+                                    "hyperlinkTitle": "DJ Schwartz",
+                                    "note": "La Magie de voir Grand\n\nhttps://booknode.com/la_magie_de_voir_grand_0739443\n",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cks4aut4zmo0",
+                                    "created": 1655439428841,
+                                    "text": "D.J. Schwartz 2",
+                                    "hyperlink": "https://prnt.sc/kq6z2xYkJ9io",
+                                    "hyperlinkTitle": "",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cks48eyvxmo0",
+                            "created": 1655439237632,
+                            "text": "Le Git",
+                            "expandState": "collapse",
+                            "note": "Créateur: Le Papa de Linux !\n\nNotons: 80→90% des serveurs ss linux..."
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cks4bwtqqcw0",
+                                    "created": 1655439511596,
+                                    "text": "S. JOBS",
+                                    "note": "Un code qui n'est pas dans le Git, est un code qui n'existe pas !",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cks44180zyg0",
+                                    "created": 1655438894253,
+                                    "text": "LC",
+                                    "note": "Le Git est le Seul Avenir VIABLE de l'Humanité\n\nLa Conserve\nL'Internet\nLe Git",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cks4fc09y3k0",
+                    "created": 1655439779735,
+                    "text": "2 Prérequis",
+                    "expandState": "collapse",
+                    "layout_mind_offset": {
+                        "x": 0.16666888528402524,
+                        "y": 15.833333498901794
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cks4gaizogw0",
+                            "created": 1655439854877,
+                            "text": "Compte GH"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4paicrl40",
+                            "created": 1655440560117,
+                            "text": "Git installé"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4gezzddk0",
+                            "created": 1655439864613,
+                            "text": "VSC",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cks4gmjr8rk0",
+                                    "created": 1655439881045,
+                                    "text": "Ungit"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cks4gi04ldk0",
+                                    "created": 1655439871151,
+                                    "text": "Git Graph"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cks4fybcf8w0",
+                    "created": 1655439828293,
+                    "text": "3 Cas Pratique",
+                    "layout_mind_offset": {
+                        "x": 6.166644646062764,
+                        "y": 244.8333229687484
+                    },
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cks4h6ev4k00",
+                            "created": 1655439924285,
+                            "text": "Vous aimez les crèpes ?",
+                            "layout_right_offset": {
+                                "x": 389.1666512025733,
+                                "y": 102.4999959270161
+                            },
+                            "note": "Reprise du concept de Edge of tomorrow..."
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4hbpx6hc0",
+                            "created": 1655439935837,
+                            "text": "Création du dépôt initial  (/GC7)",
+                            "layout_right_offset": {
+                                "x": 448.3333155181681,
+                                "y": 97.49999612569823
+                            },
+                            "note": "formapro-168"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4hrsw4dc0",
+                            "created": 1655439970845,
+                            "text": "Fork perso",
+                            "layout_right_offset": {
+                                "x": 335.8333199885161,
+                                "y": 89.99999642372154
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4i4z2vsg0",
+                            "created": 1655439999518,
+                            "text": "Clone",
+                            "layout_right_offset": {
+                                "x": 316.66665408346444,
+                                "y": 82.49999672174468
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4irhq6z40",
+                            "created": 1655440048534,
+                            "text": "1er push",
+                            "layout_right_offset": {
+                                "x": 351.6666526926894,
+                                "y": 80.83333012130527
+                            },
+                            "note": "Chacun son dossier...\n"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4j4buyyg0",
+                            "created": 1655440076478,
+                            "text": "1er PR",
+                            "layout_right_offset": {
+                                "x": 317.49998738368413,
+                                "y": 73.33333041932866
+                            },
+                            "note": "Et c'est sécurisé !!!\n"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cks4kue95xs0",
+                    "created": 1655440211583,
+                    "text": "4 Et après...?",
+                    "layout_mind_offset": {
+                        "x": 475.49998062849113,
+                        "y": 184.83332197533747
+                    },
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cks4l8x0elc0",
+                            "created": 1655440243192,
+                            "text": "Chaque pas d'étude...",
+                            "note": "- Décentralisé\n\n- Coopération sans coordination\n\n- Partageable, marqué dans l'Histoire"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4ljk1gk80",
+                            "created": 1655440266352,
+                            "text": "Trop de choses @ retenir..."
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks4ldsuhwg0",
+                            "created": 1655440253824,
+                            "text": "Ressource collective",
+                            "layout_right_offset": {
+                                "x": -3,
+                                "y": 7
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cks4uwovvhk0",
+                                    "created": 1655441000221,
+                                    "text": "c57",
+                                    "hyperlink": "http://c57.fr",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cks4v5605so0",
+                                    "created": 1655441018670,
+                                    "text": "UB"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cks59c3ab0w0",
+                    "created": 1655442130842,
+                    "text": "Vous aimez les crèpes ?",
+                    "layout_mind_offset": {
+                        "x": 539,
+                        "y": -247
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
