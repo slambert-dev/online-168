@@ -187,8 +187,8 @@
                     "created": 1655439828293,
                     "text": "3 Cas Pratique",
                     "layout_mind_offset": {
-                        "x": 6.166644646062764,
-                        "y": 244.8333229687484
+                        "x": 0.16664464606276397,
+                        "y": 111.8333229687484
                     },
                     "expandState": "collapse"
                 },
@@ -268,6 +268,18 @@
                             "note": "Et c'est sécurisé !!!\n"
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cks7m7up8p40",
+                            "created": 1655448782570,
+                            "text": "Et les crèpes alors...?",
+                            "layout_right_offset": {
+                                "x": 323,
+                                "y": 77
+                            }
+                        },
+                        "children": []
                     }
                 ]
             },
@@ -277,8 +289,8 @@
                     "created": 1655440211583,
                     "text": "4 Et après...?",
                     "layout_mind_offset": {
-                        "x": 475.49998062849113,
-                        "y": 184.83332197533747
+                        "x": 477.49998062849113,
+                        "y": 370.83332197533747
                     },
                     "expandState": "collapse"
                 },
