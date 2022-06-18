@@ -2,4 +2,4 @@
 
 echo 'Bonjour @ tou(te)s ici :-))!';
 
-// v0.02
+// v0.03 - Mc Virtuelle Debian OK
