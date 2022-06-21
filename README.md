@@ -12,7 +12,7 @@ Et pas de pitié !!! En principe, on joue jamais dans la "main branch" mais pour
 
 ---
 
-À noter: Pour profiter pleinement de certains fichiers dans votre (futur) éditeur préféré, installer les extension suivantes:
+À noter: Pour profiter pleinement de certains fichiers dans votre (futur) éditeur préféré, installer les extensions suivantes:
 
 - [Lire les fichier md 'en clair'](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
