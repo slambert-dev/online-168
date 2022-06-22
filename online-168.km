@@ -18,7 +18,11 @@
                             "id": "ckvm2lm03ko0",
                             "created": 1655794241754,
                             "text": "Outils",
-                            "note": "Nécessite WSL Debian"
+                            "note": "Nécessite WSL Debian",
+                            "layout_right_offset": {
+                                "x": 38,
+                                "y": 198
+                            }
                         },
                         "children": [
                             {
@@ -50,26 +54,6 @@
                                     "hyperlinkTitle": ""
                                 },
                                 "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "ckvqiw6uiig0",
-                                    "created": 1655806803048,
-                                    "text": "Graphisme"
-                                },
-                                "children": [
-                                    {
-                                        "data": {
-                                            "id": "ckvqj2l423s0",
-                                            "created": 1655806816972,
-                                            "text": "PieColor",
-                                            "hyperlink": "https://piecolor.com/",
-                                            "hyperlinkTitle": "",
-                                            "note": "Faire un camembert avec des couleur"
-                                        },
-                                        "children": []
-                                    }
-                                ]
                             }
                         ]
                     },
@@ -77,26 +61,41 @@
                         "data": {
                             "id": "ckvm2p5epnc0",
                             "created": 1655794249458,
-                            "text": "   Tutos\n(Solange)",
-                            "expandState": "expand"
+                            "text": "Tutos\n(Solange)",
+                            "expandState": "expand",
+                            "layout_right_offset": {
+                                "x": 32,
+                                "y": -196
+                            }
                         },
                         "children": [
-                            {
-                                "data": {
-                                    "id": "ckvm2vekqs80",
-                                    "created": 1655794263073,
-                                    "text": "PHP 1",
-                                    "hyperlink": "https://github.com/c57fr/doc_learning-php",
-                                    "hyperlinkTitle": ""
-                                },
-                                "children": []
-                            },
                             {
                                 "data": {
                                     "id": "ckvoi4bezlc0",
                                     "created": 1655801100155,
                                     "text": "Config Serveur DEBIAN",
                                     "hyperlink": "https://github.com/c57fr/doc_wsl2-debian-fr",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckwkosz08e80",
+                                    "created": 1655891899526,
+                                    "text": "Git",
+                                    "hyperlink": "https://github.com/SolangeHarmoniePICARD/doc_git-github",
+                                    "hyperlinkTitle": "",
+                                    "note": "Les commandes BASH / Git / Github de base en toute fin du README :-) "
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckvm2vekqs80",
+                                    "created": 1655794263073,
+                                    "text": "PHP 1",
+                                    "hyperlink": "https://github.com/c57fr/doc_learning-php",
                                     "hyperlinkTitle": ""
                                 },
                                 "children": []
