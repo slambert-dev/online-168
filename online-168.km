@@ -30,6 +30,46 @@
                                     "hyperlinkTitle": ""
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckvokni6xsw0",
+                                    "created": 1655801298652,
+                                    "text": "Traduction",
+                                    "hyperlink": "https://www.deepl.com/translator",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckvol89p6xs0",
+                                    "created": 1655801343851,
+                                    "text": "Communication",
+                                    "hyperlink": "https://discord.com/channels/980696939119140934/980696939119140936",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckvqiw6uiig0",
+                                    "created": 1655806803048,
+                                    "text": "Graphisme"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ckvqj2l423s0",
+                                            "created": 1655806816972,
+                                            "text": "PieColor",
+                                            "hyperlink": "https://piecolor.com/",
+                                            "hyperlinkTitle": "",
+                                            "note": "Faire un camembert avec des couleur"
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -37,7 +77,7 @@
                         "data": {
                             "id": "ckvm2p5epnc0",
                             "created": 1655794249458,
-                            "text": "Tutos\n(Solange)",
+                            "text": "   Tutos\n(Solange)",
                             "expandState": "expand"
                         },
                         "children": [
