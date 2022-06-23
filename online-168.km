@@ -20,8 +20,8 @@
                             "text": "Outils",
                             "note": "Nécessite WSL Debian",
                             "layout_right_offset": {
-                                "x": 38,
-                                "y": 198
+                                "x": 35,
+                                "y": 301
                             }
                         },
                         "children": [
