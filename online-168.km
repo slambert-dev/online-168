@@ -99,7 +99,28 @@
                                     "hyperlinkTitle": "",
                                     "note": "Les commandes BASH / Git / Github de base en toute fin du README :-) "
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ckxjdk0l0q00",
+                                            "created": 1655989756871,
+                                            "text": "LearnGitBranching",
+                                            "hyperlink": "https://learngitbranching.js.org/?locale=fr_FR",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ckxjfq0g3f40",
+                                            "created": 1655989926652,
+                                            "text": "GitCommandExplorer",
+                                            "hyperlink": "https://gitexplorer.com/",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
