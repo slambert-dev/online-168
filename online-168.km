@@ -109,6 +109,16 @@
                                             "hyperlinkTitle": ""
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ckxjfq0g3f40",
+                                            "created": 1655989926652,
+                                            "text": "GitCommandExplorer",
+                                            "hyperlink": "https://gitexplorer.com/",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
