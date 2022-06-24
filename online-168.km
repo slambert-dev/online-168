@@ -30,7 +30,8 @@
                                     "text": "Local Email",
                                     "hyperlink": "http://127.0.0.1:1080/",
                                     "hyperlinkTitle": "",
-                                    "layout": null
+                                    "layout": null,
+                                    "note": "Accès direct / boîte mails DEBIAN"
                                 },
                                 "children": []
                             },
