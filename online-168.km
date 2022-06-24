@@ -37,6 +37,16 @@
                             },
                             {
                                 "data": {
+                                    "id": "ckybkork13s0",
+                                    "created": 1656069306836,
+                                    "text": "BdD Locale",
+                                    "hyperlink": "http://localhost/adminer",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
                                     "id": "ckvokni6xsw0",
                                     "created": 1655801298652,
                                     "text": "Traduction",
