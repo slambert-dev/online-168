@@ -107,7 +107,18 @@
                                             "hyperlinkTitle": "",
                                             "note": "Pour faire des templates\n\nCollaboratif\n"
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl0qkv4soiw0",
+                                                    "created": 1656314757259,
+                                                    "text": "Raccourcis",
+                                                    "hyperlink": "https://defkey.com/fr/figma-raccourcis-clavier",
+                                                    "hyperlinkTitle": ""
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
