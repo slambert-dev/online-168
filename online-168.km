@@ -3,14 +3,16 @@
         "data": {
             "id": "ckvm1maz1u00",
             "created": 1655794164900,
-            "text": "Online\n  168"
+            "text": "Online\n  168",
+            "expandState": "expand"
         },
         "children": [
             {
                 "data": {
                     "id": "ckvm2er7dwo0",
                     "created": 1655794226831,
-                    "text": "Dev"
+                    "text": "Dev",
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -22,7 +24,8 @@
                             "layout_right_offset": {
                                 "x": 35,
                                 "y": 301
-                            }
+                            },
+                            "expandState": "expand"
                         },
                         "children": [
                             {
@@ -31,7 +34,8 @@
                                     "created": 1655794295349,
                                     "text": "Local Email",
                                     "hyperlink": "http://127.0.0.1:1080/",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -41,7 +45,8 @@
                                     "created": 1655801298652,
                                     "text": "Traduction",
                                     "hyperlink": "https://www.deepl.com/translator",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -51,7 +56,8 @@
                                     "created": 1655801343851,
                                     "text": "Communication",
                                     "hyperlink": "https://discord.com/channels/980696939119140934/980696939119140936",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -62,7 +68,44 @@
                                     "text": "TinyWows",
                                     "note": "Tools That Solve Your Files Problem",
                                     "hyperlink": "https://tinywow.com/",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckxd5e2od5s0",
+                                    "created": 1655972190364,
+                                    "text": "We Transfer",
+                                    "hyperlink": "https://wetransfer.com/",
+                                    "hyperlinkTitle": "https://wetransfer.com/",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl0q5zj4u740",
+                                    "created": 1656313591371,
+                                    "text": "Udemy",
+                                    "hyperlink": "https://www.udemy.com/",
+                                    "hyperlinkTitle": "Udemy site",
+                                    "priority": null,
+                                    "background": "#00b050",
+                                    "color": "white"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl0qb20d9i80",
+                                    "created": 1656313988587,
+                                    "text": "Figma",
+                                    "hyperlink": "https://www.figma.com",
+                                    "hyperlinkTitle": "Figma",
+                                    "background": "#00b050",
+                                    "color": "#ffffff"
                                 },
                                 "children": []
                             }
@@ -86,7 +129,8 @@
                                     "created": 1655801100155,
                                     "text": "Config Serveur DEBIAN",
                                     "hyperlink": "https://github.com/c57fr/doc_wsl2-debian-fr",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -97,7 +141,8 @@
                                     "text": "Git",
                                     "hyperlink": "https://github.com/SolangeHarmoniePICARD/doc_git-github",
                                     "hyperlinkTitle": "",
-                                    "note": "Les commandes BASH / Git / Github de base en toute fin du README :-) "
+                                    "note": "Les commandes BASH / Git / Github de base en toute fin du README :-) ",
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -116,7 +161,8 @@
                                             "text": "Solange",
                                             "hyperlink": "https://github.com/c57fr/doc_learning-php",
                                             "hyperlinkTitle": "",
-                                            "note": "Contact-form\n"
+                                            "note": "Contact-form\n",
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     },
@@ -126,7 +172,8 @@
                                             "created": 1655966663017,
                                             "text": "Greg",
                                             "note": "PHP Cheat Sheet\n\n2do: Link",
-                                            "progress": 2
+                                            "progress": 2,
+                                            "expandState": "expand"
                                         },
                                         "children": []
                                     }
@@ -140,7 +187,8 @@
                 "data": {
                     "id": "ckxb2s8a4kg0",
                     "created": 1655966343866,
-                    "text": "Base d'Étude"
+                    "text": "Base d'Étude",
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -149,7 +197,8 @@
                             "created": 1655966475927,
                             "text": "Planing",
                             "hyperlink": "https://lite.framacalc.org/2022-dijon-dwwm_planning-9uex",
-                            "hyperlinkTitle": ""
+                            "hyperlinkTitle": "",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -159,7 +208,8 @@
                             "created": 1655966541341,
                             "text": "Action quotidienne",
                             "hyperlink": "https://annuel2.framapad.org/p/2022-dijon-dwwm_coordination-9uex",
-                            "hyperlinkTitle": ""
+                            "hyperlinkTitle": "",
+                            "expandState": "expand"
                         },
                         "children": []
                     },
@@ -169,7 +219,8 @@
                             "created": 1655966757144,
                             "text": "Votre email PRO",
                             "hyperlink": "https://mail.codeur.online/roundcube/",
-                            "hyperlinkTitle": ""
+                            "hyperlinkTitle": "",
+                            "expandState": "expand"
                         },
                         "children": []
                     }
