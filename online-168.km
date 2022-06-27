@@ -20,9 +20,31 @@
                             "created": 1655794241754,
                             "text": "Outils",
                             "note": "Nécessite WSL Debian",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "expand"
                         },
                         "children": [
+                            {
+                                "data": {
+                                    "id": "cl0q7b4m7n40",
+                                    "created": 1656313694979,
+                                    "text": "Communications",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ckvol89p6xs0",
+                                            "created": 1655801343851,
+                                            "text": "Discord",
+                                            "hyperlink": "https://discord.com/channels/980696939119140934/980696939119140936",
+                                            "hyperlinkTitle": "",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
                             {
                                 "data": {
                                     "id": "ckvm3a8d0co0",
@@ -52,18 +74,8 @@
                                     "text": "Traduction",
                                     "hyperlink": "https://www.deepl.com/translator",
                                     "hyperlinkTitle": "",
-                                    "layout": null
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "ckvol89p6xs0",
-                                    "created": 1655801343851,
-                                    "text": "Communication",
-                                    "hyperlink": "https://discord.com/channels/980696939119140934/980696939119140936",
-                                    "hyperlinkTitle": "",
-                                    "layout": null
+                                    "layout": null,
+                                    "expandState": "expand"
                                 },
                                 "children": []
                             },
@@ -78,6 +90,25 @@
                                     "layout": null
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl0q80bh0740",
+                                    "created": 1656313749813,
+                                    "text": "Graphisme"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl0q85a1hhc0",
+                                            "created": 1656313760610,
+                                            "text": "Figma",
+                                            "hyperlink": "https://figma.com",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
