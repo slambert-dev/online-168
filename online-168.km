@@ -124,6 +124,17 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl2g0c8jtj40",
+                                            "created": 1656488057658,
+                                            "text": "StorySet",
+                                            "hyperlink": "https://storyset.com",
+                                            "hyperlinkTitle": "",
+                                            "note": "Illustrations libres de droits"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
