@@ -150,6 +150,17 @@
                                                         "children": []
                                                     }
                                                 ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cl45aomlcx40",
+                                                    "created": 1656660955975,
+                                                    "text": "Canva",
+                                                    "hyperlink": "https://www.canva.com/fr_fr/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Pour composer template de n'importe quel type de document (Compris bannières, cartes,n etc...)"
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     },
@@ -167,7 +178,7 @@
                                                     "text": "FlatIcon",
                                                     "hyperlink": "https://www.flaticon.com/",
                                                     "hyperlinkTitle": "",
-                                                    "note": "Bibliothèque d'icones vectoriels"
+                                                    "note": "Bibliothèque d'icones PNG (Gratuits)\nou vectoriels (Payant - 5.245 €/m)"
                                                 },
                                                 "children": []
                                             }
