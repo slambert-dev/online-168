@@ -445,6 +445,16 @@
                             "layout": null
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cl46w91fj9s0",
+                            "created": 1656665467165,
+                            "text": "Plateforme",
+                            "hyperlink": "https://pf.vos-competences.com/",
+                            "hyperlinkTitle": ""
+                        },
+                        "children": []
                     }
                 ]
             },
