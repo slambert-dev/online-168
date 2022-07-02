@@ -11,7 +11,9 @@
                     "id": "ckvm2er7dwo0",
                     "created": 1655794226831,
                     "text": "Dev",
-                    "layout": null
+                    "layout": null,
+                    "font-size": 24,
+                    "font-weight": "bold"
                 },
                 "children": [
                     {
@@ -21,7 +23,9 @@
                             "text": "Outils",
                             "note": "Nécessite WSL Debian",
                             "layout": null,
-                            "expandState": "expand"
+                            "expandState": "expand",
+                            "font-size": 16,
+                            "font-weight": "bold"
                         },
                         "children": [
                             {
@@ -150,6 +154,17 @@
                                                         "children": []
                                                     }
                                                 ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cl45aomlcx40",
+                                                    "created": 1656660955975,
+                                                    "text": "Canva",
+                                                    "hyperlink": "https://www.canva.com/fr_fr/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Pour composer template de n'importe quel type de document (Compris bannières, cartes,n etc...)"
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     },
@@ -167,7 +182,7 @@
                                                     "text": "FlatIcon",
                                                     "hyperlink": "https://www.flaticon.com/",
                                                     "hyperlinkTitle": "",
-                                                    "note": "Bibliothèque d'icones vectoriels"
+                                                    "note": "Bibliothèque d'icones PNG (Gratuits)\nou vectoriels (Payant - 5.245 €/m)"
                                                 },
                                                 "children": []
                                             }
@@ -234,7 +249,9 @@
                             "created": 1655794249458,
                             "text": "Tutos",
                             "expandState": "expand",
-                            "layout": null
+                            "layout": null,
+                            "font-weight": "bold",
+                            "font-size": 16
                         },
                         "children": [
                             {
@@ -256,7 +273,8 @@
                                     "hyperlink": "https://github.com/SolangeHarmoniePICARD/doc_git-github",
                                     "hyperlinkTitle": "",
                                     "note": "Les commandes BASH / Git / Github de base en toute fin du README :-) ",
-                                    "layout": null
+                                    "layout": null,
+                                    "font-weight": "bold"
                                 },
                                 "children": [
                                     {
@@ -297,40 +315,6 @@
                             },
                             {
                                 "data": {
-                                    "id": "ckxb6fqxh140",
-                                    "created": 1655966630152,
-                                    "text": "PHP",
-                                    "expandState": "expand",
-                                    "layout": null
-                                },
-                                "children": [
-                                    {
-                                        "data": {
-                                            "id": "ckvm2vekqs80",
-                                            "created": 1655794263073,
-                                            "text": "Solange",
-                                            "hyperlink": "https://github.com/c57fr/doc_learning-php",
-                                            "hyperlinkTitle": "",
-                                            "note": "Contact-form\n",
-                                            "layout": null
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "ckxb6uughxs0",
-                                            "created": 1655966663017,
-                                            "text": "Greg",
-                                            "note": "PHP Cheat Sheet\n\n2do: Link",
-                                            "progress": 2,
-                                            "layout": null
-                                        },
-                                        "children": []
-                                    }
-                                ]
-                            },
-                            {
-                                "data": {
                                     "id": "cl44eolv2oo0",
                                     "created": 1656658448277,
                                     "text": "Doc"
@@ -348,6 +332,72 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl45qzv1f280",
+                                    "created": 1656662234257,
+                                    "text": "Langages",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl45r22jdq80",
+                                            "created": 1656662239064,
+                                            "text": "jS",
+                                            "font-weight": "bold"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl45r4dgv7s0",
+                                                    "created": 1656662244078,
+                                                    "text": "GrassHopper",
+                                                    "hyperlink": "https://learn.grasshopper.app",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Apprendre jS en s'amusant"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ckxb6fqxh140",
+                                            "created": 1655966630152,
+                                            "text": "PHP",
+                                            "expandState": "expand",
+                                            "layout": null,
+                                            "font-weight": "bold"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ckvm2vekqs80",
+                                                    "created": 1655794263073,
+                                                    "text": "Solange",
+                                                    "hyperlink": "https://github.com/c57fr/doc_learning-php",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Contact-form\n",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ckxb6uughxs0",
+                                                    "created": 1655966663017,
+                                                    "text": "Greg",
+                                                    "note": "PHP Cheat Sheet\n\n2do: Link",
+                                                    "progress": 2,
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -358,7 +408,9 @@
                     "id": "ckxb2s8a4kg0",
                     "created": 1655966343866,
                     "text": "Base d'Étude",
-                    "layout": null
+                    "layout": null,
+                    "font-size": 24,
+                    "font-weight": "bold"
                 },
                 "children": [
                     {
@@ -402,7 +454,9 @@
                     "created": 1656312868428,
                     "text": "Prod",
                     "note": "2do",
-                    "layout": null
+                    "layout": null,
+                    "font-size": 24,
+                    "font-weight": "bold"
                 },
                 "children": [
                     {
@@ -412,7 +466,9 @@
                             "text": "Certifications PIX",
                             "hyperlink": "https://pix.fr",
                             "hyperlinkTitle": "",
-                            "layout": null
+                            "layout": null,
+                            "font-weight": "bold",
+                            "font-size": 16
                         },
                         "children": []
                     },
@@ -423,7 +479,9 @@
                             "text": "SecNumAcademie",
                             "hyperlink": "https://secnumacademie.gouv.fr/",
                             "hyperlinkTitle": "",
-                            "layout": null
+                            "layout": null,
+                            "font-weight": "bold",
+                            "font-size": 16
                         },
                         "children": []
                     }
