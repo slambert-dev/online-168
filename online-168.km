@@ -396,6 +396,27 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl6o1hd0ud40",
+                                            "created": 1656916955883,
+                                            "text": "CSS",
+                                            "font-weight": "bold"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6o21k9rjc0",
+                                                    "created": 1656916999857,
+                                                    "text": "FlukeOut",
+                                                    "hyperlink": "https://flukeout.github.io/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Tuto ludique pour apprendre le CSS\n"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
