@@ -548,7 +548,9 @@
                                 "data": {
                                     "id": "cl6vfluw0pc0",
                                     "created": 1656937810538,
-                                    "text": "2 - Le registre des activités de traitement"
+                                    "text": "2 - Le registre des activités de traitement",
+                                    "progress": 9,
+                                    "note": "Que pour Entr. > 250 salariés"
                                 },
                                 "children": []
                             },
@@ -556,7 +558,8 @@
                                 "data": {
                                     "id": "cl6vfp9s9uw0",
                                     "created": 1656937817969,
-                                    "text": "3 - Informer, demander et recueillir les consentements"
+                                    "text": "3 - Informer, demander et recueillir les consentements",
+                                    "progress": 9
                                 },
                                 "children": []
                             },
