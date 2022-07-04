@@ -526,6 +526,92 @@
                             "font-size": 16
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cl6vex68irs0",
+                            "created": 1656937756805,
+                            "text": "  RGPD\n9 étapes",
+                            "font-weight": "bold"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6vfaiyzkw0",
+                                    "created": 1656937785873,
+                                    "text": "1 - Cartographier vos traitements de données personnelles actuelles",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vfluw0pc0",
+                                    "created": 1656937810538,
+                                    "text": "2 - Le registre des activités de traitement",
+                                    "progress": 9,
+                                    "note": "Que pour Entr. > 250 salariés"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vfp9s9uw0",
+                                    "created": 1656937817969,
+                                    "text": "3 - Informer, demander et recueillir les consentements",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vg2t6x400",
+                                    "created": 1656937847441,
+                                    "text": "4 - Vérifier la conformité des traitements"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vgbweq740",
+                                    "created": 1656937867226,
+                                    "text": "5 - Formaliser un process pour toute nouvelle collecte de données personnelles"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vgggyw3c0",
+                                    "created": 1656937877176,
+                                    "text": "6 - Protection réelle et sécurisation des données"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vgkrwk7s0",
+                                    "created": 1656937886545,
+                                    "text": "7 - Sensibiliser et former le personnel"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vgo3vp9s0",
+                                    "created": 1656937893799,
+                                    "text": "8 - Politique générale de sécurité"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6vgu6mo680",
+                                    "created": 1656937907026,
+                                    "text": "9 - Faille de sécurité ou fuite de données"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
