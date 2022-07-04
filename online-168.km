@@ -187,6 +187,17 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl6oapbe7m80",
+                                            "created": 1656917678476,
+                                            "text": "Coolors.co",
+                                            "hyperlink": "https://coolors.co",
+                                            "hyperlinkTitle": "",
+                                            "note": "Generateur de palettes de couleurs (Ciompris analyse des couleur d'une image/photo)"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
@@ -396,6 +407,27 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl6o1hd0ud40",
+                                            "created": 1656916955883,
+                                            "text": "CSS",
+                                            "font-weight": "bold"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6o21k9rjc0",
+                                                    "created": 1656916999857,
+                                                    "text": "FlukeOut",
+                                                    "hyperlink": "https://flukeout.github.io/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Tuto ludique pour apprendre le CSS\n"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -407,7 +439,7 @@
                 "data": {
                     "id": "ckxb2s8a4kg0",
                     "created": 1655966343866,
-                    "text": "Base d'Étude",
+                    "text": "Étude",
                     "layout": null,
                     "font-size": 24,
                     "font-weight": "bold"
@@ -443,6 +475,16 @@
                             "hyperlink": "https://mail.codeur.online/roundcube/",
                             "hyperlinkTitle": "",
                             "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cl46w91fj9s0",
+                            "created": 1656665467165,
+                            "text": "Plateforme",
+                            "hyperlink": "https://pf.vos-competences.com/",
+                            "hyperlinkTitle": ""
                         },
                         "children": []
                     }

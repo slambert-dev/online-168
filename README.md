@@ -1,5 +1,13 @@
 # Online-168
 
+Dans la Mind-Map: 
+
+```mermaid
+graph TD;
+Online-168-->Étude
+Online-168-->Outils
+Online-168-->Prod
+```
 ---
 
 Juste un dépôt, à ce jour, pour commencer chacun d'entre nous, à "jouer" ensemble au Git ;-).
