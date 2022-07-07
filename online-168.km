@@ -198,6 +198,26 @@
                                             "note": "Generateur de palettes de couleurs (Ciompris analyse des couleur d'une image/photo)"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl9e8q8cfbk0",
+                                            "created": 1657193992511,
+                                            "text": "Divers"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl9e8tawurk0",
+                                                    "created": 1657193999197,
+                                                    "text": "Google",
+                                                    "hyperlink": "https://fonts.google.com",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Fonts, Icon, etc..."
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
