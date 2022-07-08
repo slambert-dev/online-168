@@ -198,6 +198,46 @@
                                             "note": "Generateur de palettes de couleurs (Ciompris analyse des couleur d'une image/photo)"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl9e8q8cfbk0",
+                                            "created": 1657193992511,
+                                            "text": "Divers"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl9e8tawurk0",
+                                                    "created": 1657193999197,
+                                                    "text": "Google",
+                                                    "hyperlink": "https://fonts.google.com",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Fonts, Icon, etc..."
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cla2umg10go0",
+                                            "created": 1657263414918,
+                                            "text": "Photos"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cla2uobv57k0",
+                                                    "created": 1657263419020,
+                                                    "text": "Kaboompics",
+                                                    "hyperlink": "https://www.kaboompics.com/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
