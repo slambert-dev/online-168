@@ -190,17 +190,6 @@
                                     },
                                     {
                                         "data": {
-                                            "id": "cl6oapbe7m80",
-                                            "created": 1656917678476,
-                                            "text": "Coolors.co",
-                                            "hyperlink": "https://coolors.co",
-                                            "hyperlinkTitle": "",
-                                            "note": "Generateur de palettes de couleurs (Ciompris analyse des couleur d'une image/photo)"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
                                             "id": "cl9e8q8cfbk0",
                                             "created": 1657193992511,
                                             "text": "Divers"
@@ -214,6 +203,19 @@
                                                     "hyperlink": "https://fonts.google.com",
                                                     "hyperlinkTitle": "",
                                                     "note": "Fonts, Icon, etc..."
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "clmvwq3j6qw0",
+                                                    "created": 1658564111265,
+                                                    "text": "Pixact.ly",
+                                                    "font-style": "italic",
+                                                    "progress": 9,
+                                                    "hyperlink": "https://pixact.ly/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "An online tool that tests how well you know your pixels.\n\nDraw a box that matches the dimensions given and receive a score based on how close you are. The lower the score... the better! Sounds easy, right? Pixactly.Enter\nThis site is designed for Desktop."
                                                 },
                                                 "children": []
                                             }
@@ -234,6 +236,40 @@
                                                     "hyperlink": "https://www.kaboompics.com/",
                                                     "hyperlinkTitle": "",
                                                     "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "clmvr7px8s80",
+                                            "created": 1658563679439,
+                                            "text": "Colors",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6oapbe7m80",
+                                                    "created": 1656917678476,
+                                                    "text": "Coolors.co",
+                                                    "hyperlink": "https://coolors.co",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Generateur de palettes de couleurs (Compris analyse des couleur d'une image/photo)"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "clmvrc06n3k0",
+                                                    "created": 1658563688768,
+                                                    "text": "ColorMethod",
+                                                    "hyperlink": "https://color.method.ac/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Jeu basé sur des choix de couleurs",
+                                                    "font-style": "italic",
+                                                    "progress": 9
                                                 },
                                                 "children": []
                                             }
@@ -357,7 +393,8 @@
                                             "text": "LearnGitBranching",
                                             "hyperlink": "https://learngitbranching.js.org/?locale=fr_FR",
                                             "hyperlinkTitle": "",
-                                            "layout": null
+                                            "layout": null,
+                                            "progress": 1
                                         },
                                         "children": []
                                     },
@@ -402,6 +439,105 @@
                                     "expandState": "expand"
                                 },
                                 "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6o1hd0ud40",
+                                            "created": 1656916955883,
+                                            "text": "CSS",
+                                            "font-weight": "bold"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "clmvhh35ymo0",
+                                                    "created": 1658562916189,
+                                                    "text": "CheatSheets",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cl8gic2azt40",
+                                                            "created": 1657098827576,
+                                                            "text": "FlexBoxCheatSheet",
+                                                            "hyperlink": "https://github.com/alsacreations/guidelines/blob/master/flexbox-cheatsheet.pdf",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 2,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "cl8gkkz0ajc0",
+                                                                    "created": 1657099003696,
+                                                                    "text": "FlexBoxPattern",
+                                                                    "hyperlink": "https://flexboxpatterns.com/",
+                                                                    "hyperlinkTitle": "",
+                                                                    "progress": 2
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cl8gj423og00",
+                                                            "created": 1657098888513,
+                                                            "text": "GridCheatSheet",
+                                                            "hyperlink": "https://github.com/alsacreations/guidelines/blob/master/grid-cheatsheet.pdf",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 2
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "clmvhq5bx540",
+                                                    "created": 1658562935911,
+                                                    "text": "Games",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cl8gh7og4d40",
+                                                            "created": 1657098739666,
+                                                            "text": "GridGarden",
+                                                            "hyperlink": "https://cssgridgarden.com/#fr",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 1
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cl6o21k9rjc0",
+                                                            "created": 1656916999857,
+                                                            "text": "FlukeOut",
+                                                            "hyperlink": "https://flukeout.github.io/",
+                                                            "hyperlinkTitle": "",
+                                                            "note": "Tuto ludique pour apprendre le CSS\n",
+                                                            "progress": 9
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "clmvj34kqvc0",
+                                                            "created": 1658563042528,
+                                                            "text": "Froggy",
+                                                            "hyperlink": "http://flexboxfroggy.com/#fr",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 1
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
                                     {
                                         "data": {
                                             "id": "cl45r22jdq80",
@@ -460,60 +596,80 @@
                                     },
                                     {
                                         "data": {
-                                            "id": "cl6o1hd0ud40",
-                                            "created": 1656916955883,
-                                            "text": "CSS",
+                                            "id": "clmvdxpsiog0",
+                                            "created": 1658562638929,
+                                            "text": "MySQL",
                                             "font-weight": "bold"
                                         },
                                         "children": [
                                             {
                                                 "data": {
-                                                    "id": "cl6o21k9rjc0",
-                                                    "created": 1656916999857,
-                                                    "text": "FlukeOut",
-                                                    "hyperlink": "https://flukeout.github.io/",
+                                                    "id": "clmvew3s7v40",
+                                                    "created": 1658562713786,
+                                                    "text": "Exos",
+                                                    "hyperlink": "https://www.w3schools.com/SQl/default.asp",
                                                     "hyperlinkTitle": "",
-                                                    "note": "Tuto ludique pour apprendre le CSS\n"
+                                                    "progress": 9
                                                 },
                                                 "children": []
                                             },
                                             {
                                                 "data": {
-                                                    "id": "cl8gj423og00",
-                                                    "created": 1657098888513,
-                                                    "text": "GridCheatSheet",
-                                                    "hyperlink": "https://github.com/alsacreations/guidelines/blob/master/grid-cheatsheet.pdf",
-                                                    "hyperlinkTitle": ""
+                                                    "id": "clmvgwm972o0",
+                                                    "created": 1658562871631,
+                                                    "text": "Tuto",
+                                                    "hyperlink": "https://www.w3schools.com/php/php_mysql_connect.asp",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 2,
+                                                    "font-family": "arial,helvetica,sans-serif"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "clmvm8q25ts0",
+                                            "created": 1658563289803,
+                                            "text": "Divers"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "clmvmbf5ha00",
+                                                    "created": 1658563295674,
+                                                    "text": "LeekWars",
+                                                    "note": "Leek Wars est un jeu de programmation dans lequel vous devez créér le plus puissant poireau et détruire vos ennemis !\n\nDéveloppez votre propre intelligence artificielle grâce au LeekScript, un langage facile à apprendre, et devenez le meilleur éleveur !",
+                                                    "hyperlink": "https://leekwars.com/",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 1,
+                                                    "font-style": "italic"
                                                 },
                                                 "children": []
                                             },
                                             {
                                                 "data": {
-                                                    "id": "cl8gh7og4d40",
-                                                    "created": 1657098739666,
-                                                    "text": "GridGarden",
-                                                    "hyperlink": "https://cssgridgarden.com/#fr",
-                                                    "hyperlinkTitle": ""
+                                                    "id": "clmvn3bmfkw0",
+                                                    "created": 1658563356411,
+                                                    "text": "CheckiO",
+                                                    "note": "oding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript",
+                                                    "hyperlink": "https://checkio.org/",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 1,
+                                                    "font-style": "italic"
                                                 },
                                                 "children": []
                                             },
                                             {
                                                 "data": {
-                                                    "id": "cl8gic2azt40",
-                                                    "created": 1657098827576,
-                                                    "text": "FlexBoxCheatSheet",
-                                                    "hyperlink": "https://github.com/alsacreations/guidelines/blob/master/flexbox-cheatsheet.pdf",
-                                                    "hyperlinkTitle": ""
-                                                },
-                                                "children": []
-                                            },
-                                            {
-                                                "data": {
-                                                    "id": "cl8gkkz0ajc0",
-                                                    "created": 1657099003696,
-                                                    "text": "FlexBoxPattern",
-                                                    "hyperlink": "https://flexboxpatterns.com/",
-                                                    "hyperlinkTitle": ""
+                                                    "id": "clmvp0m0uds0",
+                                                    "created": 1658563507239,
+                                                    "text": "CodeCombat",
+                                                    "note": "Our custom code engine and interpreter is designed for beginners, teaching true Python, JavaScript, and C++ programming languages using human, beginner-friendly terms.",
+                                                    "hyperlink": "https://codecombat.com/",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 1,
+                                                    "font-style": "italic"
                                                 },
                                                 "children": []
                                             }
