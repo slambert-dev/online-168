@@ -326,6 +326,17 @@
                                             "hyperlinkTitle": ""
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cm3uuw1vr6g0",
+                                            "created": 1660287665651,
+                                            "text": "DevDocs",
+                                            "hyperlink": "https://devdocs.io/",
+                                            "hyperlinkTitle": "",
+                                            "note": "Docs de tous langages\n\nÀ noter: Possibilité d'(utiliser hors ligne"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
@@ -346,6 +357,25 @@
                                             "hyperlink": "https://tinywow.com/",
                                             "hyperlinkTitle": "",
                                             "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cm3uueu1or40",
+                                    "created": 1660287628172,
+                                    "text": "Divers"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cm3uugl1zzk0",
+                                            "created": 1660287631982,
+                                            "text": "WebArchives",
+                                            "hyperlink": "https://web.archive.org/",
+                                            "hyperlinkTitle": ""
                                         },
                                         "children": []
                                     }
