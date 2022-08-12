@@ -480,7 +480,20 @@
                                             "hyperlink": "https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/",
                                             "hyperlinkTitle": ""
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cm3viy9jbpc0",
+                                                    "created": 1660289551207,
+                                                    "text": "VidéoUT",
+                                                    "hyperlink": "https://www.youtube.com/watch?v=LTxJFQ6xmzM&ab_channel=AFUPPHP",
+                                                    "hyperlinkTitle": "",
+                                                    "font-style": "italic",
+                                                    "progress": 2
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
