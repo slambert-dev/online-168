@@ -738,6 +738,18 @@
                                                     "font-style": "italic"
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cm3w1rm7km00",
+                                                    "created": 1660291025655,
+                                                    "text": "PHP Exos",
+                                                    "hyperlink": "https://exercism.org/tracks/php/exercises",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "79 exercices sympa\n\n(divo/)",
+                                                    "progress": 3
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     }
