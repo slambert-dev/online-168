@@ -471,6 +471,16 @@
                                             "note": "Doc / multiples langages"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cm3vgwyuxv40",
+                                            "created": 1660289391657,
+                                            "text": "CleanArchitecture",
+                                            "hyperlink": "https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
@@ -831,7 +841,9 @@
                             "id": "cl6vex68irs0",
                             "created": 1656937756805,
                             "text": "  RGPD\n9 étapes",
-                            "font-weight": "bold"
+                            "font-weight": "bold",
+                            "hyperlink": "https://pf.vos-competences.com/apprenant/",
+                            "hyperlinkTitle": ""
                         },
                         "children": [
                             {
