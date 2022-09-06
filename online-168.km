@@ -248,9 +248,21 @@
                                                     "text": "Kaboompics",
                                                     "hyperlink": "https://www.kaboompics.com/",
                                                     "hyperlinkTitle": "",
-                                                    "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
+                                                    "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante",
+                                                    "expandState": "expand"
                                                 },
-                                                "children": []
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cmp3uxc31940",
+                                                            "created": 1662445817524,
+                                                            "text": "Video gratuites",
+                                                            "hyperlink": "https://coverr.co/",
+                                                            "hyperlinkTitle": "Videos gratuites site"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -304,6 +316,16 @@
                                             "text": "Replit",
                                             "hyperlink": "https://replit.com",
                                             "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmp3xb9sbu00",
+                                            "created": 1662446004588,
+                                            "text": "Apprendre a Coder",
+                                            "hyperlink": "https://grasshopper.app/",
+                                            "hyperlinkTitle": "GrassHopper"
                                         },
                                         "children": []
                                     },
@@ -438,9 +460,21 @@
                                             "text": "DevDocs",
                                             "hyperlink": "https://devdocs.io/",
                                             "hyperlinkTitle": "",
-                                            "note": "Doc / multiples langages"
+                                            "note": "Doc / multiples langages",
+                                            "expandState": "expand"
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cmp3qd1e9m80",
+                                                    "created": 1662445459885,
+                                                    "text": "Documentation Emmet",
+                                                    "hyperlink": "https://docs.emmet.io/cheat-sheet/",
+                                                    "hyperlinkTitle": "Astuces Raccourcis"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -644,9 +678,21 @@
                                                     "hyperlink": "https://www.w3schools.com/php/php_mysql_connect.asp",
                                                     "hyperlinkTitle": "",
                                                     "progress": 2,
-                                                    "font-family": "arial,helvetica,sans-serif"
+                                                    "font-family": "arial,helvetica,sans-serif",
+                                                    "expandState": "expand"
                                                 },
-                                                "children": []
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cmp3tmlbfjs0",
+                                                            "created": 1662445715773,
+                                                            "text": "Apprendre SQL",
+                                                            "hyperlink": "https://sql.sh/",
+                                                            "hyperlinkTitle": "SQL apprentissage"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -654,7 +700,8 @@
                                         "data": {
                                             "id": "clmvm8q25ts0",
                                             "created": 1658563289803,
-                                            "text": "Divers"
+                                            "text": "Divers",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -703,6 +750,26 @@
                                                     "hyperlinkTitle": "",
                                                     "progress": 1,
                                                     "font-style": "italic"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cmp3ybgb41c0",
+                                                    "created": 1662446083347,
+                                                    "text": "Linkedin Lien important",
+                                                    "hyperlink": "https://www.linkedin.com/posts/h%C3%A9l%C3%A8ne-talbot-96051a179_comment-cr%C3%A9er-un-site-moche-ugcPost-6969943906943655936-QA4B?utm_source=share&utm_medium=member_android",
+                                                    "hyperlinkTitle": "Post1"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cmp3ypsfhww0",
+                                                    "created": 1662446114555,
+                                                    "text": "Conférence Dev Fest Décembre 2022",
+                                                    "hyperlink": "https://www.linkedin.com/posts/developers-group-dijon_appel-%C3%A0-conf%C3%A9rence-1er-devfest-dijon-activity-6967775577885839360-Sbyk?utm_source=share&utm_medium=member_android",
+                                                    "hyperlinkTitle": "Conférence Linkedin"
                                                 },
                                                 "children": []
                                             }
