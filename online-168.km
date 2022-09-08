@@ -71,7 +71,19 @@
                                     "hyperlinkTitle": "",
                                     "layout": null
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cmqt4q005yg0",
+                                            "created": 1662618672902,
+                                            "text": "UML",
+                                            "hyperlink": "https://app.dbdesigner.net/designer/schema/553117",
+                                            "hyperlinkTitle": "",
+                                            "note": "UML → Générateur du code MySQ"
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
