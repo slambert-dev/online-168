@@ -13,7 +13,8 @@
                     "text": "Dev",
                     "layout": null,
                     "font-size": 24,
-                    "font-weight": "bold"
+                    "font-weight": "bold",
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -547,7 +548,8 @@
                                             "id": "cl6o1hd0ud40",
                                             "created": 1656916955883,
                                             "text": "CSS",
-                                            "font-weight": "bold"
+                                            "font-weight": "bold",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -646,6 +648,40 @@
                                                             "hyperlinkTitle": "",
                                                             "progress": 2,
                                                             "font-style": "italic"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "clcnhncxk6w0",
+                                                    "created": 1657524761395,
+                                                    "text": "Tailwind",
+                                                    "hyperlink": "https://play.tailwindcss.com",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Template CSS\n\nhttps://www.youtube.com/watch?v=Tmkr2kKUEgU"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "clcnjspy0t40",
+                                                            "created": 1657524929794,
+                                                            "text": "DaisyUI",
+                                                            "hyperlink": "https://daisyui.com",
+                                                            "hyperlinkTitle": "",
+                                                            "note": "Components GRATUITS for Tailwind"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "clcno8u0cl40",
+                                                            "created": 1657525278325,
+                                                            "text": "Components",
+                                                            "hyperlink": "https://tailwindcomponents.com",
+                                                            "hyperlinkTitle": "",
+                                                            "note": "Components GRATUITS & PAYANTS for Tailwind"
                                                         },
                                                         "children": []
                                                     }
@@ -1037,59 +1073,6 @@
                                     "hyperlinkTitle": ""
                                 },
                                 "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "data": {
-                            "id": "clcnj3w73go0",
-                            "created": 1657524875752,
-                            "text": "Dev"
-                        },
-                        "children": [
-                            {
-                                "data": {
-                                    "id": "clcnj5naxvs0",
-                                    "created": 1657524879568,
-                                    "text": "CSS",
-                                    "expandState": "expand"
-                                },
-                                "children": [
-                                    {
-                                        "data": {
-                                            "id": "clcnhncxk6w0",
-                                            "created": 1657524761395,
-                                            "text": "Tailwind",
-                                            "hyperlink": "https://play.tailwindcss.com",
-                                            "hyperlinkTitle": "",
-                                            "note": "Template CSS\n\nhttps://www.youtube.com/watch?v=Tmkr2kKUEgU"
-                                        },
-                                        "children": [
-                                            {
-                                                "data": {
-                                                    "id": "clcnjspy0t40",
-                                                    "created": 1657524929794,
-                                                    "text": "DaisyUI",
-                                                    "hyperlink": "https://daisyui.com",
-                                                    "hyperlinkTitle": "",
-                                                    "note": "Components GRATUITS for Tailwind"
-                                                },
-                                                "children": []
-                                            },
-                                            {
-                                                "data": {
-                                                    "id": "clcno8u0cl40",
-                                                    "created": 1657525278325,
-                                                    "text": "Components",
-                                                    "hyperlink": "https://tailwindcomponents.com",
-                                                    "hyperlinkTitle": "",
-                                                    "note": "Components GRATUITS & PAYANTS for Tailwind"
-                                                },
-                                                "children": []
-                                            }
-                                        ]
-                                    }
-                                ]
                             }
                         ]
                     }
