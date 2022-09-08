@@ -252,7 +252,18 @@
                                                     "hyperlinkTitle": "",
                                                     "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
                                                 },
-                                                "children": []
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cmp3uxc31940",
+                                                            "created": 1662445817524,
+                                                            "text": "Video gratuites",
+                                                            "hyperlink": "https://coverr.co/",
+                                                            "hyperlinkTitle": "Videos gratuites site"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -695,6 +706,17 @@
                                                     "note": "PHP Cheat Sheet\n\n2do: Link",
                                                     "progress": 2,
                                                     "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cmr5zn6pg7c0",
+                                                    "created": 1662654949385,
+                                                    "text": "Tutos PHP",
+                                                    "hyperlink": "https://phpsources.net/tutoriels/index",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 1
                                                 },
                                                 "children": []
                                             }
