@@ -349,6 +349,35 @@
                                             "note": "Docs de tous langages\n\nÀ noter: Possibilité d'(utiliser hors ligne"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cmrp9nks4go0",
+                                            "created": 1662709334966,
+                                            "text": "Regex"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cmrp9pn4j1k0",
+                                                    "created": 1662709339461,
+                                                    "text": "RegexR",
+                                                    "hyperlink": "https://regexr.com",
+                                                    "hyperlinkTitle": ""
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cmrpa007i8o0",
+                                                    "created": 1662709362020,
+                                                    "text": "Regex101",
+                                                    "hyperlink": "https://regex101.com/",
+                                                    "hyperlinkTitle": ""
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
