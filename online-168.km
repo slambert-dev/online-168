@@ -13,7 +13,8 @@
                     "text": "Dev",
                     "layout": null,
                     "font-size": 24,
-                    "font-weight": "bold"
+                    "font-weight": "bold",
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -252,7 +253,18 @@
                                                     "hyperlinkTitle": "",
                                                     "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
                                                 },
-                                                "children": []
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cmp3uxc31940",
+                                                            "created": 1662445817524,
+                                                            "text": "Video gratuites",
+                                                            "hyperlink": "https://coverr.co/",
+                                                            "hyperlinkTitle": "Videos gratuites site"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -325,7 +337,8 @@
                                             "created": 1657699188114,
                                             "text": "Emmet",
                                             "hyperlink": "https://docs.emmet.io/cheat-sheet/",
-                                            "hyperlinkTitle": ""
+                                            "hyperlinkTitle": "",
+                                            "note": "Doc's Linkk"
                                         },
                                         "children": []
                                     },
@@ -346,7 +359,7 @@
                                             "text": "DevDocs",
                                             "hyperlink": "https://devdocs.io/",
                                             "hyperlinkTitle": "",
-                                            "note": "Docs de tous langages\n\nÀ noter: Possibilité d'(utiliser hors ligne"
+                                            "note": "Docs de tous langages\n\nÀ noter: Possibilité d'utiliser hors ligne"
                                         },
                                         "children": []
                                     },
@@ -452,7 +465,8 @@
                                     "text": "Config Serveur DEBIAN",
                                     "hyperlink": "https://github.com/c57fr/doc_wsl2-debian-fr",
                                     "hyperlinkTitle": "",
-                                    "layout": null
+                                    "layout": null,
+                                    "progress": 9
                                 },
                                 "children": []
                             },
@@ -472,7 +486,7 @@
                                         "data": {
                                             "id": "ckyybzkxxuw0",
                                             "created": 1656133510631,
-                                            "text": "Git Sheet",
+                                            "text": "Git Cheat Sheet",
                                             "note": "( Contribution de Sophie :-) )",
                                             "hyperlink": "https://github.com/slambert-dev/doc-git-",
                                             "hyperlinkTitle": "",
@@ -488,7 +502,7 @@
                                             "hyperlink": "https://learngitbranching.js.org/?locale=fr_FR",
                                             "hyperlinkTitle": "",
                                             "layout": null,
-                                            "progress": 1
+                                            "progress": 2
                                         },
                                         "children": []
                                     },
@@ -529,7 +543,8 @@
                                             "created": 1660289391657,
                                             "text": "CleanArchitecture",
                                             "hyperlink": "https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/",
-                                            "hyperlinkTitle": ""
+                                            "hyperlinkTitle": "",
+                                            "progress": 1
                                         },
                                         "children": [
                                             {
@@ -552,7 +567,8 @@
                                             "created": 1660291803796,
                                             "text": "Router",
                                             "hyperlink": "https://nouvelle-techno.fr/articles/live-coding-introduction-au-mvc-en-php",
-                                            "hyperlinkTitle": ""
+                                            "hyperlinkTitle": "",
+                                            "progress": 1
                                         },
                                         "children": []
                                     }
@@ -571,7 +587,8 @@
                                             "id": "cl6o1hd0ud40",
                                             "created": 1656916955883,
                                             "text": "CSS",
-                                            "font-weight": "bold"
+                                            "font-weight": "bold",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -674,6 +691,40 @@
                                                         "children": []
                                                     }
                                                 ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "clcnhncxk6w0",
+                                                    "created": 1657524761395,
+                                                    "text": "Tailwind",
+                                                    "hyperlink": "https://play.tailwindcss.com",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Template CSS\n\nhttps://www.youtube.com/watch?v=Tmkr2kKUEgU"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "clcnjspy0t40",
+                                                            "created": 1657524929794,
+                                                            "text": "DaisyUI",
+                                                            "hyperlink": "https://daisyui.com",
+                                                            "hyperlinkTitle": "",
+                                                            "note": "Components GRATUITS for Tailwind"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "clcno8u0cl40",
+                                                            "created": 1657525278325,
+                                                            "text": "Components",
+                                                            "hyperlink": "https://tailwindcomponents.com",
+                                                            "hyperlinkTitle": "",
+                                                            "note": "Components GRATUITS & PAYANTS for Tailwind"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -692,7 +743,8 @@
                                                     "text": "GrassHopper",
                                                     "hyperlink": "https://learn.grasshopper.app",
                                                     "hyperlinkTitle": "",
-                                                    "note": "Apprendre jS en s'amusant"
+                                                    "note": "Apprendre jS en s'amusant",
+                                                    "progress": 1
                                                 },
                                                 "children": []
                                             }
@@ -716,7 +768,8 @@
                                                     "hyperlink": "https://github.com/c57fr/doc_learning-php",
                                                     "hyperlinkTitle": "",
                                                     "note": "Contact-form\n",
-                                                    "layout": null
+                                                    "layout": null,
+                                                    "progress": 9
                                                 },
                                                 "children": []
                                             },
@@ -728,6 +781,17 @@
                                                     "note": "PHP Cheat Sheet\n\n2do: Link",
                                                     "progress": 2,
                                                     "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cmr5zn6pg7c0",
+                                                    "created": 1662654949385,
+                                                    "text": "Tutos PHP",
+                                                    "hyperlink": "https://phpsources.net/tutoriels/index",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 1
                                                 },
                                                 "children": []
                                             }
@@ -1048,59 +1112,6 @@
                                     "hyperlinkTitle": ""
                                 },
                                 "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "data": {
-                            "id": "clcnj3w73go0",
-                            "created": 1657524875752,
-                            "text": "Dev"
-                        },
-                        "children": [
-                            {
-                                "data": {
-                                    "id": "clcnj5naxvs0",
-                                    "created": 1657524879568,
-                                    "text": "CSS",
-                                    "expandState": "expand"
-                                },
-                                "children": [
-                                    {
-                                        "data": {
-                                            "id": "clcnhncxk6w0",
-                                            "created": 1657524761395,
-                                            "text": "Tailwind",
-                                            "hyperlink": "https://play.tailwindcss.com",
-                                            "hyperlinkTitle": "",
-                                            "note": "Template CSS\n\nhttps://www.youtube.com/watch?v=Tmkr2kKUEgU"
-                                        },
-                                        "children": [
-                                            {
-                                                "data": {
-                                                    "id": "clcnjspy0t40",
-                                                    "created": 1657524929794,
-                                                    "text": "DaisyUI",
-                                                    "hyperlink": "https://daisyui.com",
-                                                    "hyperlinkTitle": "",
-                                                    "note": "Components GRATUITS for Tailwind"
-                                                },
-                                                "children": []
-                                            },
-                                            {
-                                                "data": {
-                                                    "id": "clcno8u0cl40",
-                                                    "created": 1657525278325,
-                                                    "text": "Components",
-                                                    "hyperlink": "https://tailwindcomponents.com",
-                                                    "hyperlinkTitle": "",
-                                                    "note": "Components GRATUITS & PAYANTS for Tailwind"
-                                                },
-                                                "children": []
-                                            }
-                                        ]
-                                    }
-                                ]
                             }
                         ]
                     }
