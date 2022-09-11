@@ -3,11 +3,20 @@
 Dans la Mind-Map: 
 
 ```mermaid
-graph TD;
+flowchart TD
 Online-168-->Étude
 Online-168-->Outils
 Online-168-->Prod
+
+A[Start] -->|Intro| B{OK ?}
+direction LR
+B --->|No| E[End]
+B -->|Yes| C[OK]
+C ---> D[Rethink]
+D --> A
+B-->C
 ```
+
 ---
 
 Juste un dépôt, à ce jour, pour commencer chacun d'entre nous, à "jouer" ensemble au Git ;-).
