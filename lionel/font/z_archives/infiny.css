@@ -1,0 +1,9 @@
+#infiny {
+  width: 99%;
+  height: 50%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  color: #fff;
+  background: #222;
+}
