@@ -317,7 +317,8 @@
                                             "created": 1656473595845,
                                             "text": "Replit",
                                             "hyperlink": "https://replit.com",
-                                            "hyperlinkTitle": ""
+                                            "hyperlinkTitle": "",
+                                            "note": "Codage collaboratif"
                                         },
                                         "children": []
                                     },
@@ -401,6 +402,17 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn063z7z6iw0",
+                                            "created": 1663569328650,
+                                            "text": "FigStack",
+                                            "hyperlink": "https://www.figstack.com/app/explain",
+                                            "hyperlinkTitle": "",
+                                            "note": "Explique le code"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
@@ -1099,7 +1111,8 @@
                                     "created": 1657117251948,
                                     "text": "HTML",
                                     "hyperlink": "https://validator.w3.org/",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
                                 },
                                 "children": []
                             },
@@ -1109,7 +1122,69 @@
                                     "created": 1657117274924,
                                     "text": "CSS",
                                     "hyperlink": "https://jigsaw.w3.org/css-validator/",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cn067teut0g0",
+                            "created": 1663569629462,
+                            "text": "Dev"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cn067w8g4rk0",
+                                    "created": 1663569635605,
+                                    "text": "Twig",
+                                    "progress": 7,
+                                    "note": "Option: Usage de TailWind CSS"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cn067ybcijc0",
+                                    "created": 1663569640133,
+                                    "text": "Mailer",
+                                    "progress": 2,
+                                    "note": "Librairie\n\nUtiliser par ex https://mailtrap.io/\n\nou MailGun"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cn0681dxzls0",
+                                    "created": 1663569646821,
+                                    "text": "Guzzle",
+                                    "progress": 2,
+                                    "note": "Librai"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cn06ajs4tbs0",
+                                    "created": 1663569843589,
+                                    "text": "API Rest",
+                                    "progress": 5,
+                                    "hyperlink": "https://apipheny.io/free-api/",
+                                    "hyperlinkTitle": "",
+                                    "note": "Gén&érateur d'APIs Rest\n\nUne API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. L'architecture REST (Representational State Transfer) a été créée par l'informaticien Roy Fielding."
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cn06bs9dyi80",
+                                    "created": 1663569940411,
+                                    "text": "CV GC7",
+                                    "note": "Figma.com\n\ncvDesignr.com\n",
+                                    "progress": 6
                                 },
                                 "children": []
                             }
