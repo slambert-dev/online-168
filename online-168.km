@@ -1133,60 +1133,121 @@
                         "data": {
                             "id": "cn067teut0g0",
                             "created": 1663569629462,
-                            "text": "Dev"
+                            "text": "Dev",
+                            "progress": 4
                         },
                         "children": [
-                            {
-                                "data": {
-                                    "id": "cn067w8g4rk0",
-                                    "created": 1663569635605,
-                                    "text": "Twig",
-                                    "progress": 7,
-                                    "note": "Option: Usage de TailWind CSS"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "cn067ybcijc0",
-                                    "created": 1663569640133,
-                                    "text": "Mailer",
-                                    "progress": 2,
-                                    "note": "Librairie\n\nUtiliser par ex https://mailtrap.io/\n\nou MailGun"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "cn0681dxzls0",
-                                    "created": 1663569646821,
-                                    "text": "Guzzle",
-                                    "progress": 2,
-                                    "note": "Librai"
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "cn06ajs4tbs0",
-                                    "created": 1663569843589,
-                                    "text": "API Rest",
-                                    "progress": 5,
-                                    "hyperlink": "https://apipheny.io/free-api/",
-                                    "hyperlinkTitle": "",
-                                    "note": "Gén&érateur d'APIs Rest\n\nUne API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. L'architecture REST (Representational State Transfer) a été créée par l'informaticien Roy Fielding."
-                                },
-                                "children": []
-                            },
                             {
                                 "data": {
                                     "id": "cn06bs9dyi80",
                                     "created": 1663569940411,
                                     "text": "CV GC7",
                                     "note": "Figma.com\n\ncvDesignr.com\n",
-                                    "progress": 6
+                                    "progress": 6,
+                                    "expandState": "expand"
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cn06nuu5v800",
+                                    "created": 1663570886391,
+                                    "text": "Learn",
+                                    "expandState": "expand",
+                                    "progress": 5
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cn06o92lhmg0",
+                                            "created": 1663570917376,
+                                            "text": "Pure Dev",
+                                            "expandState": "expand",
+                                            "progress": 3
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cn067w8g4rk0",
+                                                    "created": 1663569635605,
+                                                    "text": "Twig",
+                                                    "progress": 7,
+                                                    "note": "Option: Usage de TailWind CSS"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cn067ybcijc0",
+                                                    "created": 1663569640133,
+                                                    "text": "Mailer",
+                                                    "progress": 2,
+                                                    "note": "Librairie\n\nCapture dev local d'emails:\nhttp://127.0.0.1:1080/\n\nUtiliser par ex https://mailtrap.io/\n\nou MailGun"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cn0681dxzls0",
+                                                    "created": 1663569646821,
+                                                    "text": "Guzzle",
+                                                    "progress": 2,
+                                                    "note": "Librai"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cn06ajs4tbs0",
+                                                    "created": 1663569843589,
+                                                    "text": "API Rest",
+                                                    "progress": 5,
+                                                    "hyperlink": "https://apipheny.io/free-api/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Générateur d'APIs Rest\n\nUne API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. L'architecture REST (REpresentational State Transfer) a été créée par l'informaticien Roy Fielding."
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn06oglk5nk0",
+                                            "created": 1663570933760,
+                                            "text": "Laravel",
+                                            "progress": 4
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn06okfbehs0",
+                                            "created": 1663570942089,
+                                            "text": "WinterCMS",
+                                            "progress": 7
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cn06oui986o0",
+                                    "created": 1663570964035,
+                                    "text": "Projects",
+                                    "progress": 1
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cn06ozgafx40",
+                                            "created": 1663570974800,
+                                            "text": "CdA",
+                                            "progress": 1
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     }
