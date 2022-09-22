@@ -2,13 +2,31 @@
 
 Dans la Mind-Map: 
 
+<!-- ```mermaid
+flowchart TD
+Online-168 -- > Étude
+Online-168-- >Outils
+Online-168-- >Prod
+
+A[Start] -- >|Intro| B{OK ?}
+direction LR
+B --- >|No| E[End]
+B -- >|Yes| C[OK]
+C --- > D[Rethink]
+D -- > A
+B-- >C
+``` -->
+
 ```mermaid
-graph TD;
-Online-168-->Étude
-Online-168-->Outils
-Online-168-->Prod
+flowchart LR
+P-E[Pôle-Emploi]-->Oline-168
+--> Quality{Travailleur ?}-->|Oui| Tutos[Enseignement]
+Tutos-->Outils-->Production
+Quality-->|Non| F[Tout Faux !]
+F--->P-E
 ```
----
+
+----
 
 Juste un dépôt, à ce jour, pour commencer chacun d'entre nous, à "jouer" ensemble au Git ;-).
 
