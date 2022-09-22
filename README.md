@@ -18,6 +18,7 @@ B-- >C
 ``` -->
 
 ```mermaid
+<<<<<<< HEAD
 flowchart LR
 P-E[Pôle-Emploi]-->Online-168
 --> Quality{Travailleur ?}-->|Oui| Tutos[Enseignement]
@@ -27,6 +28,23 @@ F--->P-E
 ```
 
 ----
+=======
+flowchart TD
+Online-168-->Étude
+Online-168-->Outils
+Online-168-->Prod
+
+A[Start] -->|Intro| B{OK ?}
+direction LR
+B --->|No| E[End]
+B -->|Yes| C[OK]
+C ---> D[Rethink]
+D --> A
+B-->C
+```
+
+---
+>>>>>>> 13d75408c43998258231cc6c9d27ac4e8c1e7da4
 
 Juste un dépôt, à ce jour, pour commencer chacun d'entre nous, à "jouer" ensemble au Git ;-).
 
