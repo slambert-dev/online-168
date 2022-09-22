@@ -19,7 +19,7 @@ B-- >C
 
 ```mermaid
 flowchart LR
-P-E[Pôle-Emploi]-->Oline-168
+P-E[Pôle-Emploi]-->Online-168
 --> Quality{Travailleur ?}-->|Oui| Tutos[Enseignement]
 Tutos-->Outils-->Production
 Quality-->|Non| F[Tout Faux !]
