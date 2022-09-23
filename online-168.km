@@ -241,7 +241,7 @@
                                         "data": {
                                             "id": "cla2umg10go0",
                                             "created": 1657263414918,
-                                            "text": "Photos"
+                                            "text": "Photos &\n  Videos"
                                         },
                                         "children": [
                                             {
@@ -265,6 +265,17 @@
                                                         "children": []
                                                     }
                                                 ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cn33ss301so0",
+                                                    "created": 1663867488756,
+                                                    "text": "Coverr",
+                                                    "hyperlink": "https://coverr.co/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Beautiful Free Stock Video Footage"
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     },
@@ -837,6 +848,17 @@
                                                     "hyperlinkTitle": "",
                                                     "progress": 2,
                                                     "font-family": "arial,helvetica,sans-serif"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cn33rrme71k0",
+                                                    "created": 1663867409388,
+                                                    "text": "Sql.sh",
+                                                    "hyperlink": "https://sql.sh/",
+                                                    "hyperlinkTitle": "",
+                                                    "note": "Apprendre le SQL"
                                                 },
                                                 "children": []
                                             }
