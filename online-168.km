@@ -1351,7 +1351,8 @@
                                             "text": "HackMe",
                                             "hyperlink": "https://hack-me.fr/",
                                             "hyperlinkTitle": "",
-                                            "progress": 2
+                                            "progress": 2,
+                                            "note": "Apply test / agenda"
                                         },
                                         "children": []
                                     }
@@ -1384,7 +1385,9 @@
                                     "created": 1663919437440,
                                     "text": "PortFolio",
                                     "progress": 2,
-                                    "font-weight": "bold"
+                                    "font-weight": "bold",
+                                    "hyperlink": "https://grcote7.github.io/",
+                                    "hyperlinkTitle": ""
                                 },
                                 "children": []
                             }
