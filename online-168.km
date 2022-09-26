@@ -251,7 +251,7 @@
                                                     "text": "Kaboompics",
                                                     "hyperlink": "https://www.kaboompics.com/",
                                                     "hyperlinkTitle": "",
-                                                    "note": "Photos Libres de droits avec leur palette\n°//°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
+                                                    "note": "Photos Libres de droits avec leur palette\n°/°: Possibilité d'obtenir une selection de photo selon la chromatique dominante"
                                                 },
                                                 "children": [
                                                     {
@@ -308,6 +308,50 @@
                                                     "note": "Jeu basé sur des choix de couleurs",
                                                     "font-style": "italic",
                                                     "progress": 9
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cn65xl2u7s80",
+                                                    "created": 1664178187419,
+                                                    "text": "Roue Chromatique",
+                                                    "hyperlink": "https://color.adobe.com/",
+                                                    "hyperlinkTitle": ""
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cn65xq0imao0",
+                                                            "created": 1664178198163,
+                                                            "text": "Tuto",
+                                                            "hyperlink": "https://www.logogenie.fr/blog/roue-chromatique-utiliser-la-roue-chromatique-pour-trouver-la-parfaite-combinaison-de-couleurs",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 2,
+                                                            "note": "Ex de champs d'application:\n\nCréer logo avec couleurs parfaites"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn64v4s9mk80",
+                                            "created": 1664175174113,
+                                            "text": "RWD",
+                                            "note": "Responsive Web Design\n"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cn64vckeheo0",
+                                                    "created": 1664175191052,
+                                                    "text": "LT Browser",
+                                                    "note": "Check Mobile View Of Your Website",
+                                                    "hyperlink": "https://www.lambdatest.com/lt-browser",
+                                                    "hyperlinkTitle": ""
                                                 },
                                                 "children": []
                                             }
@@ -465,6 +509,56 @@
                                             "hyperlinkTitle": ""
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn662ksmozk0",
+                                            "created": 1664178578623,
+                                            "text": "Outils de tests de performance"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cn662quvi000",
+                                                    "created": 1664178591819,
+                                                    "text": "LightHouse",
+                                                    "note": "Dans consolde dev\n"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cl8n1bgd6j40",
+                                                    "created": 1657117241828,
+                                                    "text": "Validateurs",
+                                                    "progress": 9
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cl8n1g3qdyw0",
+                                                            "created": 1657117251948,
+                                                            "text": "HTML",
+                                                            "hyperlink": "https://validator.w3.org/",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 9
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cl8n1qnpprs0",
+                                                            "created": 1657117274924,
+                                                            "text": "CSS",
+                                                            "hyperlink": "https://jigsaw.w3.org/css-validator/",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 9
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -1071,7 +1165,8 @@
                             "hyperlinkTitle": "",
                             "layout": null,
                             "font-weight": "bold",
-                            "font-size": 16
+                            "font-size": 16,
+                            "progress": 1
                         },
                         "children": []
                     },
@@ -1084,7 +1179,8 @@
                             "hyperlinkTitle": "",
                             "layout": null,
                             "font-weight": "bold",
-                            "font-size": 16
+                            "font-size": 16,
+                            "progress": 1
                         },
                         "children": []
                     },
@@ -1130,7 +1226,8 @@
                                 "data": {
                                     "id": "cl6vg2t6x400",
                                     "created": 1656937847441,
-                                    "text": "4 - Vérifier la conformité des traitements"
+                                    "text": "4 - Vérifier la conformité des traitements",
+                                    "progress": 9
                                 },
                                 "children": []
                             },
@@ -1171,37 +1268,6 @@
                                     "id": "cl6vgu6mo680",
                                     "created": 1656937907026,
                                     "text": "9 - Faille de sécurité ou fuite de données"
-                                },
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "data": {
-                            "id": "cl8n1bgd6j40",
-                            "created": 1657117241828,
-                            "text": "Validateurs"
-                        },
-                        "children": [
-                            {
-                                "data": {
-                                    "id": "cl8n1g3qdyw0",
-                                    "created": 1657117251948,
-                                    "text": "HTML",
-                                    "hyperlink": "https://validator.w3.org/",
-                                    "hyperlinkTitle": "",
-                                    "progress": 9
-                                },
-                                "children": []
-                            },
-                            {
-                                "data": {
-                                    "id": "cl8n1qnpprs0",
-                                    "created": 1657117274924,
-                                    "text": "CSS",
-                                    "hyperlink": "https://jigsaw.w3.org/css-validator/",
-                                    "hyperlinkTitle": "",
-                                    "progress": 9
                                 },
                                 "children": []
                             }
@@ -1314,7 +1380,8 @@
                                     "id": "cn06oui986o0",
                                     "created": 1663570964035,
                                     "text": "Projects",
-                                    "progress": 1
+                                    "progress": 1,
+                                    "note": "Penser à applique tests de performanace"
                                 },
                                 "children": [
                                     {
@@ -1331,9 +1398,31 @@
                                             "id": "cn07blz12a00",
                                             "created": 1663572747834,
                                             "text": "Agenda",
-                                            "note": "Use: Sitetest/"
+                                            "note": "Use: Sitetest/\n\nÀ tester:\n\n- Router // Failles\n- Mailer avec Twig",
+                                            "progress": 2,
+                                            "font-weight": "bold"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn65e0pegeo0",
+                                            "created": 1664176654152,
+                                            "text": "Flutter"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cn65rd3zeow0",
+                                                    "created": 1664177699889,
+                                                    "text": "Tuto 1H30",
+                                                    "hyperlink": "https://www.udemy.com/course/1h-pour-creer-votre-premiere-app-flutter/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-France-DSA-WebIndex&utm_term=_._ag_118536262787_._ad_487993119546_._de_c_._dm__._pl__._ti_dsa-617475983430_._li_9055110_._pd__._&gclid=CjwKCAjwm8WZBhBUEiwA178UnJPS3NjLJgOG9fqx9GD26M-ICVsrbHylF-8CgbZkvCuXprCjKOFnBRoChCMQAvD_BwE",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 1
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1364,7 +1453,12 @@
                         "data": {
                             "id": "cn3m7ih3htk0",
                             "created": 1663919423281,
-                            "text": "PressBook"
+                            "text": "PressBook",
+                            "hyperlink": "https://www.16personalities.com/fr",
+                            "hyperlinkTitle": "",
+                            "note": "Description de la personnalité par un test rapide (Env 12 ')\n\n-------------------------------\nÀ noter: Fiche métier ROME M1805\n\nhttps://candidat.pole-emploi.fr/marche-du-travail/fichemetierrome?codeRome=M1805\n",
+                            "progress": 2,
+                            "font-weight": "bold"
                         },
                         "children": [
                             {
@@ -1375,7 +1469,8 @@
                                     "hyperlink": "https://www.canva.com/design/DAFLuyXEUV0/grutKuz0L4R6SaSoyhvRNw/edit",
                                     "hyperlinkTitle": "",
                                     "progress": 3,
-                                    "font-weight": "bold"
+                                    "font-weight": "bold",
+                                    "note": "Penser intégrer QR Code"
                                 },
                                 "children": []
                             },
@@ -1387,9 +1482,20 @@
                                     "progress": 2,
                                     "font-weight": "bold",
                                     "hyperlink": "https://grcote7.github.io/",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "note": "For pages 's transitions, use of:\n\nwww.barba.js.org\n\n"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cn65rvw3nxs0",
+                                            "created": 1664177740771,
+                                            "text": "Exemples",
+                                            "note": "23 exemples:\n\nhttps://devdojo.com/madzadev/23-awesome-dev-portfolios-for-your-inspiration\n\n\n-------------------------------"
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     }
