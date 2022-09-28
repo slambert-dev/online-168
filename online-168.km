@@ -468,6 +468,16 @@
                                             "note": "Explique le code"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cn7xb8y8zwo0",
+                                            "created": 1664356988043,
+                                            "text": "Test VERB HTTP",
+                                            "note": "GET\nPOST\nPUT\nPATCH\nDELETE\n\nApp insomnia || website postman",
+                                            "font-weight": "bold"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             },
@@ -633,7 +643,17 @@
                                             "hyperlinkTitle": "",
                                             "layout": null
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cn7x9yssh4g0",
+                                                    "created": 1664356887581,
+                                                    "text": "Tips",
+                                                    "note": "To ignore Zone.Identifier.Files:\n\ngit config core.protectNTFS false\n\nTo run this command as administrator open terminal(cmd prompt) as admin and run below mentioned command\n\ngit config --system core.protectNTFS false\n\n------------------------"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1396,7 +1416,9 @@
                                             "id": "cn06ozgafx40",
                                             "created": 1663570974800,
                                             "text": "CdA",
-                                            "progress": 1
+                                            "progress": 1,
+                                            "font-weight": "bold",
+                                            "note": "Laravel ou WCMS ?"
                                         },
                                         "children": []
                                     },
@@ -1462,6 +1484,40 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cn7xaptiffk0",
+                                    "created": 1664356946397,
+                                    "text": "Modules"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cn7xcsgc6zk0",
+                                            "created": 1664357108860,
+                                            "text": "Altorouter"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cn7xcvpnrpk0",
+                                                    "created": 1664357115954,
+                                                    "text": "topic"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cn7xcxa74sw0",
+                                    "created": 1664357119372,
+                                    "text": "topic"
+                                },
+                                "children": []
                             }
                         ]
                     },
@@ -1499,7 +1555,7 @@
                                     "font-weight": "bold",
                                     "hyperlink": "https://grcote7.github.io/",
                                     "hyperlinkTitle": "",
-                                    "note": "For pages 's transitions, use of:\n\nwww.barba.js.org\n\n"
+                                    "note": "For pages 's transitions, use of:\n\nwww.barba.js.org\n\n\n---------------------\n\nUse of :\n\nFront:\n- Tailwind\n- Sass\n- Twig (Composer)\n\nBack:\n\n- Altorouter\n- Idiorm\n\n\n"
                                 },
                                 "children": [
                                     {
