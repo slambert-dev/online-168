@@ -1555,7 +1555,7 @@
                                     "font-weight": "bold",
                                     "hyperlink": "https://grcote7.github.io/",
                                     "hyperlinkTitle": "",
-                                    "note": "For pages 's transitions, use of:\n\nwww.barba.js.org\n\n\n---------------------\n\nUse of :\n\nFront:\n- Tailwind\n- Sass\n- Twig (Composer)\n\nBack:\n\n- Altorouter\n- Idiorm\n\n\n"
+                                    "note": "For pages 's transitions, use of:\n\nwww.barba.js.org\n\n\n---------------------\n\nUse of :\n\nFront:\n- Tailwind\n- Sass\n- Twig (Composer)\n\nBack:\n\n- Altorouter\n- Idiorm\n  Doc: https://idiorm.readthedocs.io/en/latest/index.html\n\n\n"
                                 },
                                 "children": [
                                     {
