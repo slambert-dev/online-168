@@ -10,6 +10,7 @@
 	<style>
 		body {
 			background-color: beige;
+			font-family: arial;
 		}
 	</style>
 	<script src="./config/browser-sync/sync_gc7.js"></script>
@@ -18,18 +19,16 @@
 <body>
 	<h1>
 		<?php
-  /**
-   * (ɔ) Online FORMAPRO - GrCOTE7 -2022.
-   */
-
-  // echo 'Bonjour @ tou(te)s ici :-))!';
+        echo 'Bonjour @ tou(te)s ici :-))!<hr>';
 		?>
+		Logo Tailwindcss <span style="font-size: 20px; font-style: italic">(Format: SVG)</span>:
+		<hr>
 	</h1>
 
-	<p>
-		<img src="./cv_portfolio/tailwindcss-logotype.svg" alt="">
+	<p style="text-align: center">
+		<img src="./cv_portfolio/tailwindcss-logotype.svg" alt="" width="300px">
 	</p>
 
 </body>
 
-</html><?php
+</html>
