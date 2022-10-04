@@ -510,6 +510,18 @@
                                                     "font-weight": "bold"
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cndbsegl6qo0",
+                                                    "created": 1664905627548,
+                                                    "text": "Vite_with Laravel",
+                                                    "font-weight": "bold",
+                                                    "progress": 2,
+                                                    "hyperlink": "https://www.youtube.com/watch?v=5XtQAQ00t-A&ab_channel=NordCoders",
+                                                    "hyperlinkTitle": ""
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     }
@@ -922,6 +934,18 @@
                                                     "hyperlinkTitle": "",
                                                     "note": "Apprendre jS en s'amusant",
                                                     "progress": 1
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cndbxq9ma9s0",
+                                                    "created": 1664906045069,
+                                                    "text": "GA",
+                                                    "hyperlink": "https://grafikart.fr/formations/formation-javascript",
+                                                    "hyperlinkTitle": "",
+                                                    "font-weight": "bold",
+                                                    "progress": 3
                                                 },
                                                 "children": []
                                             }
