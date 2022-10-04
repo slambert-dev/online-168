@@ -1515,7 +1515,8 @@
                                 "data": {
                                     "id": "cn7xcxa74sw0",
                                     "created": 1664357119372,
-                                    "text": "Divers"
+                                    "text": "Divers",
+                                    "progress": 2
                                 },
                                 "children": [
                                     {
@@ -1572,7 +1573,7 @@
                                     "hyperlink": "https://github.com/Sarimarcus/defi-onlineformapro",
                                     "hyperlinkTitle": "",
                                     "font-weight": "bold",
-                                    "progress": 1
+                                    "progress": 2
                                 },
                                 "children": [
                                     {
