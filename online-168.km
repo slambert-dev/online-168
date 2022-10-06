@@ -12,7 +12,7 @@
                     "created": 1655794226831,
                     "text": "Dev",
                     "layout": null,
-                    "font-size": 24,
+                    "font-size": 48,
                     "font-weight": "bold",
                     "expandState": "expand"
                 },
@@ -25,7 +25,7 @@
                             "note": "Nécessite WSL Debian",
                             "layout": null,
                             "expandState": "expand",
-                            "font-size": 16,
+                            "font-size": 32,
                             "font-weight": "bold"
                         },
                         "children": [
@@ -356,6 +356,39 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cnezc00jbzk0",
+                                            "created": 1665073608871,
+                                            "text": "Img"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cnezc1wxhfc0",
+                                                    "created": 1665073613006,
+                                                    "text": "WebP",
+                                                    "hyperlink": "https://developers.google.com/speed/webp",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 2,
+                                                    "font-weight": "bold"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cnezdtukxo80",
+                                                    "created": 1665073752178,
+                                                    "text": "Poids",
+                                                    "hyperlink": "https://www.proxilog.com/comment-alleger-le-poids-de-ses-images-pour-son-site-internet/",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 2,
+                                                    "font-weight": "bold"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -628,7 +661,7 @@
                             "expandState": "expand",
                             "layout": null,
                             "font-weight": "bold",
-                            "font-size": 16
+                            "font-size": 32
                         },
                         "children": [
                             {
@@ -1300,7 +1333,7 @@
                     "created": 1655966343866,
                     "text": "Étude",
                     "layout": null,
-                    "font-size": 24,
+                    "font-size": 48,
                     "font-weight": "bold"
                 },
                 "children": [
@@ -1366,7 +1399,7 @@
                     "text": "Prod",
                     "note": "2do",
                     "layout": null,
-                    "font-size": 24,
+                    "font-size": 48,
                     "font-weight": "bold"
                 },
                 "children": [
