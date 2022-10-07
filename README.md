@@ -1,8 +1,18 @@
 2do
-zip johhny
+
+Cf
+1. vite php
+
+https://www.google.com/search?q=vitejs+php&oq=vitejs+php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCAgDEAAYDRgeMggIBBAAGA0YHjIICAUQABgNGB4yCAgGEAAYDRgeMggIBxAAGA0YHjIICAgQABgNGB4yCAgJEAAYDRge0gEINDk4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2. zip johhny
+
+3. PHP-MySQL
 
 http://www.turrier.fr/articles/php-mysql-creer-un-espace-membre/php-mysql-creer-espace-membres.php
 
+4. Add to MM :
+   
 https://fontawesome.com/kits/ca901ad75d/use
 
 
