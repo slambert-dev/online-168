@@ -821,6 +821,16 @@
                                                     "progress": 3
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cnmevcb1ig00",
+                                                    "created": 1665828360892,
+                                                    "text": "APIs",
+                                                    "hyperlink": "https://github.com/GrCOTE7/apisjs",
+                                                    "hyperlinkTitle": ""
+                                                },
+                                                "children": []
                                             }
                                         ]
                                     },
@@ -1358,6 +1368,16 @@
                                                             "hyperlink": "https://www.flaticon.com/",
                                                             "hyperlinkTitle": "",
                                                             "note": "Bibliothèque d'icones PNG (Gratuits)\nou vectoriels (Payant - 5.245 €/m)"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cngki4ee2u80",
+                                                            "created": 1665234891865,
+                                                            "text": "100.000 icons SVG",
+                                                            "hyperlink": "https://iconify.design/",
+                                                            "hyperlinkTitle": ""
                                                         },
                                                         "children": []
                                                     }
