@@ -821,6 +821,27 @@
                                                     "progress": 3
                                                 },
                                                 "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cnqsrtujzpc0",
+                                                    "created": 1666273820986,
+                                                    "text": "Api"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cnqsryta30g0",
+                                                            "created": 1666273831792,
+                                                            "text": "Fetch",
+                                                            "hyperlink": "https://www.alsacreations.com/tuto/lire/1870-LAPI-Fetch-en-JavaScript-quest-ce-que-cest-.html",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 2,
+                                                            "font-weight": "bold"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -866,6 +887,18 @@
                                                     "hyperlink": "https://phpsources.net/tutoriels/index",
                                                     "hyperlinkTitle": "",
                                                     "progress": 1
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cnqssfhy4880",
+                                                    "created": 1666273868113,
+                                                    "text": "DesignPatterns",
+                                                    "hyperlink": "https://refactoring.guru/design-patterns/catalog",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 2,
+                                                    "font-weight": "bold"
                                                 },
                                                 "children": []
                                             }
