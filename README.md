@@ -3,6 +3,8 @@
 Cf
 1. vite php
 
+https://vitejs.dev/guide/backend-integration.html
+
 https://www.google.com/search?q=vitejs+php&oq=vitejs+php&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCAgDEAAYDRgeMggIBBAAGA0YHjIICAUQABgNGB4yCAgGEAAYDRgeMggIBxAAGA0YHjIICAgQABgNGB4yCAgJEAAYDRge0gEINDk4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
 2. zip johhny
