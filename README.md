@@ -1,6 +1,3 @@
-2do
-
-Cf
 1. vite php
 
 https://vitejs.dev/guide/backend-integration.html
