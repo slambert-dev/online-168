@@ -459,7 +459,7 @@
                                             "text": "CV",
                                             "hyperlink": "https://www.canva.com/design/DAFLuyXEUV0/grutKuz0L4R6SaSoyhvRNw/edit",
                                             "hyperlinkTitle": "",
-                                            "progress": 3,
+                                            "progress": 8,
                                             "font-weight": "bold",
                                             "note": "Penser intégrer QR Code"
                                         },
@@ -1110,6 +1110,30 @@
                                                     "hyperlink": "https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java",
                                                     "hyperlinkTitle": "",
                                                     "progress": 1
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "coleyue1hio0",
+                                            "created": 1669383233831,
+                                            "text": "HTML",
+                                            "layout_right_offset": {
+                                                "x": 12.499999813735485,
+                                                "y": -1688.749974835664
+                                            }
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "coleywlixc00",
+                                                    "created": 1669383238637,
+                                                    "text": "7 tips",
+                                                    "hyperlink": "https://scribe.rip/7-cool-html-elements-nobody-uses-436598d85668",
+                                                    "hyperlinkTitle": "",
+                                                    "progress": 2
                                                 },
                                                 "children": []
                                             }
