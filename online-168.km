@@ -1846,29 +1846,18 @@
                                                     "id": "cndapqcbeyw0",
                                                     "created": 1664902597209,
                                                     "text": "ViteJs",
-                                                    "font-weight": "bold"
+                                                    "font-weight": "bold",
+                                                    "expandState": "expand"
                                                 },
                                                 "children": [
                                                     {
                                                         "data": {
                                                             "id": "cndaruzi1680",
                                                             "created": 1664902764046,
-                                                            "text": "Laravel",
+                                                            "text": "Tuto Laravel",
                                                             "hyperlink": "https://laravel.sillo.org/vite/",
                                                             "hyperlinkTitle": "",
-                                                            "progress": 2,
-                                                            "font-weight": "bold"
-                                                        },
-                                                        "children": []
-                                                    },
-                                                    {
-                                                        "data": {
-                                                            "id": "cndapt0chsw0",
-                                                            "created": 1664902603016,
-                                                            "text": "Cf. Vite-PHP",
-                                                            "hyperlink": "https://github.com/andrefelipe/vite-php-setup",
-                                                            "hyperlinkTitle": "",
-                                                            "progress": 2,
+                                                            "progress": 6,
                                                             "font-weight": "bold"
                                                         },
                                                         "children": []
@@ -1881,7 +1870,33 @@
                                                             "font-weight": "bold",
                                                             "progress": 2,
                                                             "hyperlink": "https://www.youtube.com/watch?v=5XtQAQ00t-A&ab_channel=NordCoders",
-                                                            "hyperlinkTitle": ""
+                                                            "hyperlinkTitle": "",
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cndapt0chsw0",
+                                                            "created": 1664902603016,
+                                                            "text": "Cf. Vite-PHP",
+                                                            "hyperlink": "https://github.com/andrefelipe/vite-php-setup",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 2,
+                                                            "font-weight": "bold",
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cp0pg729se00",
+                                                            "created": 1670936204057,
+                                                            "text": "WordPress",
+                                                            "hyperlink": "https://gitlab.com/c57fr/wordpressvite",
+                                                            "hyperlinkTitle": "",
+                                                            "progress": 9,
+                                                            "font-weight": "bold"
                                                         },
                                                         "children": []
                                                     }
